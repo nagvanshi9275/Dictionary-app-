@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.render {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  margin-left: 100px;
+}
+
+.render1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.show1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
